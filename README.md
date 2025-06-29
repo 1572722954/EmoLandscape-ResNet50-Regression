@@ -10,4 +10,5 @@ img1.jpg,0.75
 img2.jpg,0.32
 
 提供了一套测试数据，包括图片“5555”与标签“label”，可供测试。
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/81831ace-0632-45c1-ba54-ee13ae306be1)
